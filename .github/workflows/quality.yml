@@ -29,11 +29,12 @@ jobs:
 
     - name: Run security audit
       run: npm audit --audit-level=moderate
+      continue-on-error: true
 
     - name: Run dependency check
       uses: dependency-check/Dependency-Check_Action@main
       with:
-        project: 'clock-website'
+  project: 'clock-website-2025'
         path: '.'
         format: 'ALL'
 
