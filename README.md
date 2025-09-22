@@ -26,7 +26,7 @@ A beautiful, responsive React-based world clock website that displays real-time 
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://wulukewu.github.io/clock-website-2025](https://wulukewu.github.io/clock-website-2025)
+Visit the live website: [https://rayhuang2006.github.io/clock-website-2025/](https://rayhuang2006.github.io/clock-website-2025/)
 
 ## 📱 Screenshots
 
