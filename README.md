@@ -1,8 +1,8 @@
 # 🌍 World Clock Website
 
 
-![CI/CD Pipeline](https://github.com/wulukewu/clock-website-2025/actions/workflows/ci-cd.yml/badge.svg)
-![Quality & Security Checks](https://github.com/wulukewu/clock-website-2025/actions/workflows/quality.yml/badge.svg)
+![CI/CD Pipeline](https://github.com/rayhuang2006/clock-website-2025/actions/workflows/ci-cd.yml/badge.svg)
+![Quality & Security Checks](https://github.com/rayhuang2006/clock-website-2025/actions/workflows/quality.yml/badge.svg)
 
 A beautiful, responsive React-based world clock website that displays real-time clocks for different timezones around the world. Users can interactively select and deselect timezones to customize their view.
 
